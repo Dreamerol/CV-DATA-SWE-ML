@@ -51,17 +51,14 @@
     ✉️ 𝗠𝗜𝗖𝗛𝗔𝗘𝗟𝗔𝗞𝗢𝗦𝗘𝗩𝗔@𝗚𝗠𝗔𝗜𝗟.𝗖𝗢𝗠
   </span>
 
+  <!-- Линкове + бутон на един ред -->
   <span style="display:block; font-size:2.5em;">
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
-    🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a>
-  </span>
-
-  <!-- Бутона за изтегляне на PNG -->
-  <p align="center" style="margin-top:1em;">
+    🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> |
     <a href="https://github.com/Dreamerol/Dreamerol/raw/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png" download>
-      <img src="https://img.shields.io/badge/📄_ИЗТЕГЛИ_PNG-blue?style=for-the-badge&logo=image&logoColor=white" alt="Download PNG">
+      <img src="https://img.shields.io/badge/📄_ИЗТЕГЛИ_PNG-blue?style=for-the-badge&logo=image&logoColor=white" alt="Download PNG" style="vertical-align:middle;">
     </a>
-  </p>
+  </span>
 
 </div>
 

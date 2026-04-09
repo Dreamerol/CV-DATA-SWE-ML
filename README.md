@@ -101,6 +101,7 @@ architecture, cloud technologies, and enterprise-grade systems.
 - Developed mini-projects and exercises simulating real-world enterprise applications.  
 - GitHub Repo: [𝗭𝗶𝗴𝗶𝗪𝗮𝘃𝗲 𝗧𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗧𝗮𝘀𝗸𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
+---
 
 <span style="font-weight:bold; display:block; margin-top:1em;">
 𝗧𝗘𝗔𝗠: 𝗖𝗢𝗥𝗘 𝗔𝗟𝗚𝗢𝗥𝗜𝗧𝗛𝗠𝗦 & 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡𝗦

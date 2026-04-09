@@ -67,22 +67,27 @@ architecture, cloud technologies, and enterprise-grade systems.
  
 
 
-
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 
 ---
+
 
 ## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
 
@@ -113,23 +118,25 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 </b>
 </p>
 
-
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
-
 ---
-
 
 ## 🛠️ 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
@@ -153,18 +160,25 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 - Optimized SQL queries (~30% performance improvement ⚡).  
 - Enabled KPI tracking & **data-driven insights 📊**.
 
+
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
+
 
 ---
 
@@ -177,18 +191,25 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 **🗄️ Databases:** SQL, Relational Databases, Query Optimization, Data Modeling  
 **🛠️ Tools & Practices:** Git 🐙, Jupyter Notebook 📓, VS Code, Agile/Scrum 🏃‍♀️, OOP 🧩, Clean Code, Modular Architecture, Scalable Systems Design
 
+
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
+
 
 ---
 
@@ -198,18 +219,25 @@ Oct 2024 – Present
 
 **Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
 
+
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
+
 
 ---
 
@@ -218,17 +246,23 @@ Oct 2024 – Present
 - Mathematical Concepts for Developers — SoftUni 🧮  
 - Python (Fundamentals, Advanced, OOP, Web, Frameworks) — SoftUni 🐍  
 
+
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Java-Intermediate-orange?style=for-the-badge&logo=java&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Clojure-Intermediate-brightgreen?style=for-the-badge&logo=clojure&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-Proficient-red?style=for-the-badge&logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pandas-Intermediate-blue?style=for-the-badge&logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/NumPy-Intermediate-lightgrey?style=for-the-badge&logo=numpy&logoColor=black"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++ & Object-Oriented Programming"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" title="Java programming & OOP"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" title="Relational Databases & Query Optimization"/>
+  <img alt="ML" src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=tensorflow&logoColor=white" title="Machine Learning & Predictive Modeling"/>
+  <img alt="Data Analysis" src="https://img.shields.io/badge/Data_Analysis-00BFFF?style=for-the-badge&logo=apache&logoColor=white" title="Data Analysis, Visualization & Pandas/NumPy"/>
+  <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-FF69B4?style=for-the-badge" title="Algorithm Design & Complexity Optimization"/>
+  <img alt="OOP" src="https://img.shields.io/badge/OOP-32CD32?style=for-the-badge" title="Object-Oriented Programming"/>
+  <img alt="Backend" src="https://img.shields.io/badge/Backend-8A2BE2?style=for-the-badge" title="Backend Development & API Integrations"/>
+  <img alt="APIs" src="https://img.shields.io/badge/APIs-FF8C00?style=for-the-badge" title="REST & API Development"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Version Control with Git"/>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux System Management & Shell"/>
+  <img alt="Mathematical Modeling" src="https://img.shields.io/badge/Math_Modeling-1E90FF?style=for-the-badge" title="Mathematical Modeling & Simulations (ODEs, SIR Models)"/>
 </p>
 
 ---

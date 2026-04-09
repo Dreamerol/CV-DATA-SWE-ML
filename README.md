@@ -26,18 +26,7 @@
     🔗 <a href="https://www.linkedin.com/in/mihaela-koseva-b5b39337a">𝗟𝗜𝗡𝗞𝗘𝗗𝗜𝗡</a> |
     🐙 <a href="https://github.com/Dreamerol">𝗚𝗜𝗧𝗛𝗨𝗕</a> 
     
-  
-  </span>
-
-  <p align="center">
-  <a href="https://github.com/Dreamerol/CV-Junior-Data-Analyst-SWE-Engineer/raw/main/README.pdf" download>
-    <img src="https://img.shields.io/badge/📄_ИЗТЕГЛИ_PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Download PDF">
-  </a>
-</p>
-
-</div>
-
-
+---
 
 <p align="center">
   <a href="https://github.com/Dreamerol/Dreamerol/raw/86b780d3f004d5f0f33f4bf73486335ca37bbf16/Banner-SMALL.png" download>

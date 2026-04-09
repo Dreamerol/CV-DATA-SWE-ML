@@ -9,7 +9,7 @@
 
 ---
 
-<div align="center">
+<div align="left">
   
   <span style="display:block; font-size:2.5em; margin-top:0.5em;">
     📍 𝗦𝗢𝗙𝗜𝗔, 𝗕𝗨𝗟𝗚𝗔𝗥𝗜𝗔

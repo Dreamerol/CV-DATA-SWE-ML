@@ -1,4 +1,4 @@
-# Junior-data-analyst-Mihaela-Koseva
+# Junior-Data-Analyst-Mihaela-Koseva
 
 <p align="center">
   

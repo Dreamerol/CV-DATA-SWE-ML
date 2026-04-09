@@ -56,22 +56,22 @@ Foundational team responsible for the platform’s 𝗮𝗹𝗴𝗼𝗿𝗶𝘁�
 
 ## 🛠️ SELECTED PROJECTS
 
-### [🧠 Neural Networks](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
+### [🧠 NEURAL NETWORKS](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 - Designed, trained & evaluated neural networks (~90%+ accuracy).  
 - Implemented **Backpropagation 🔄** & **Gradient Descent 📉** from scratch.  
 - Applied ML to dynamic system modeling (SIR model, ODE simulations).
 
-### [💰 Profit Predictor](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
+### [💰 PROFIT PREDICTOR ML](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
 - Full ML pipeline for **profit forecasting 📊** and trend analysis.  
 - Conducted **EDA 🔎**, feature engineering, & preprocessing.  
 - Implemented Regression, Decision Trees 🌳, and Time Series models.
 
-### [💊 Placebo Effect Analysis](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
+### [💊 PLACEBO EFFECT ML DATA ANALYSIS](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
 - EDA & statistical analysis on clinical datasets (5,000+ records).  
 - Hypothesis testing & correlation analysis (**p < 0.05 ✅**).  
 - Preprocessing and data visualization 📈 for clarity & insights.
 
-### [📦 Deliveries Database System](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL, Relational Databases)
+### [📦 DELIVERY DATA SQL SYSTEM](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL, Relational Databases)
 - Designed normalized relational database schema 🗄️.  
 - Optimized SQL queries (~30% performance improvement ⚡).  
 - Enabled KPI tracking & **data-driven insights 📊**.

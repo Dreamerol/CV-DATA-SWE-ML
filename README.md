@@ -362,13 +362,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 
 
-<div align="center">
-
-## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-
-</div>
-
-
 <p align="center">
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">

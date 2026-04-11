@@ -419,7 +419,7 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 ---
 
-<div align="leftr">
+<div align="center">
 
 ## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
@@ -545,7 +545,7 @@ Oct 2024 – Present
 ---
 
 
-<div align="leftr">
+<div align="center">
 
 ## 🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
@@ -650,9 +650,6 @@ Oct 2024 – Present
 
 
 ---
-
----
-
 
 
 

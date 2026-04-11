@@ -35,7 +35,6 @@
 
 <p align="center">
 
-
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
@@ -62,7 +61,6 @@
   <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
   <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>
@@ -322,7 +320,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
 
 <p align="center">
 
-
 <a href="https://github.com/Dreamerol/JAVA-GUI-CALCULATOR-MATH-OPERATIONS">
   <img height="65" src="https://img.shields.io/badge/Java%20Calculator-FF8C00?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
@@ -349,7 +346,6 @@ FOUNDATIONAL TEAM DRIVING THE PLATFORM’S ALGORITHMIC AND FUNCTIONAL CORE, FOCU
   <a href="https://github.com/Dreamerol/NEURAL-NETWORKS">
   <img height="65" src="https://img.shields.io/badge/Neural%20Networks-FF4081?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </a>
-
 
 <a href="https://github.com/Dreamerol/PHYSICS-SIMULATION-SYSTEMS">
   <img height="65" src="https://img.shields.io/badge/Physics%20Simulation-0f0c29?style=for-the-badge&logo=atom&logoColor=white"/>

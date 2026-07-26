@@ -8,22 +8,6 @@
 
 
 
-
-  
-<h1 align="center">
-𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜
-</h1>
-
-
-</div>
-
-
-
-<br>
-
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">

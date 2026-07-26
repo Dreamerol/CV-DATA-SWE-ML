@@ -260,17 +260,53 @@ Oct 2024 – Present
 
 
 
-<br><br>
+
+
+<br><br><br>
+
+
+
 
 
 <div align="center">
-  <a href="https://github.com/Dreamerol/PORTFOLIO">
-    <img 
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
+
+<h1>
+<a
+  href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
+  title="Mihaela Koseva (Михаела Косева) - AI Engineer, Machine Learning, Data Science">
+  ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+</a>
+</h1>
+
+</div>
+
+
+
+
+<h1 align="center">
+  <a href="https://www.uni-sofia.bg" target="_blank">
+    𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
+  </a>
+</h1>
+
+
+
+<br>
+
+
+
+
+
+<div align="center">
+
+  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
+    <img
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
       width="100%"
-      alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
+      alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
     />
   </a>
+
 </div>
 
 
@@ -278,7 +314,10 @@ Oct 2024 – Present
 
 
 
-<br><br>
+<br><br><br>
+
+
+
 
 
 
@@ -520,54 +559,23 @@ width="320" height="220">
 
 
 
-
 <br><br><br>
 
 
 
-
-
-
 <div align="center">
-
-<h1>
-<a
-  href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
-  title="Mihaela Koseva (Михаела Косева) - AI Engineer, Machine Learning, Data Science">
-  ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
-</a>
-</h1>
-
-</div>
-
-
-
-
-<h1 align="center">
-  <a href="https://www.uni-sofia.bg" target="_blank">
-    𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
-  </a>
-</h1>
-
-
-
-<br>
-
-
-
-
-
-<div align="center">
-
-  <a href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY">
-    <img
-      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/NN_23.JPG"
+  <a href="https://github.com/Dreamerol/PORTFOLIO">
+    <img 
+      src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/!!!_MIHAELA_KOSEVA_VIZITKA_111.png"
       width="100%"
-      alt="Mihaela Koseva, Михаела Косева - Neuroscience Spiking Neural Networks, Software Engineer, AI Engineer, Applied Machine Learning"
+      alt="Mihaela Koseva, Михаела Косева - Software Engineer, AI Engineer, Applied Machine Learning"
     />
   </a>
-
 </div>
+
+
+
+
 
 
 

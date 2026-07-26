@@ -19,13 +19,6 @@
 
 
 
-  <h2 align="center">
- Backend Engineering • Data Engineering • Applied Machine Learning
-  </h2>
-
-
-
-
 <br>
 
 

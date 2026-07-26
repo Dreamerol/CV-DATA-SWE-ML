@@ -9,15 +9,19 @@
 
 
 
-<h1 align="center">𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥 @ 𝗙𝗠𝗜
-</h1>
-
-
+  
 <h1 align="center">
-𝗦𝗪𝗘 • 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗠𝗟 ∫ 𝗗𝗮𝘁𝗮 → 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 
+𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 ∫ 𝗦𝗪𝗘 • 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗟 @ 𝗙𝗠𝗜
 </h1>
+
 
 </div>
+
+
+
+  <h2 align="center">
+ Backend Engineering • Data Engineering • Applied Machine Learning
+  </h2>
 
 
 

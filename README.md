@@ -1,6 +1,26 @@
 
 
 
+<div align="center">
+
+<h1 style="font-size:42px; line-height:1.2;">
+𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+</h1>
+
+</div>
+
+
+
+<h2 align="center">
+  Data & Software Engineer • Applied ML ∫ Data → Systems ✨
+</h2>
+
+</div>
+
+
+
+
+
 
 
 

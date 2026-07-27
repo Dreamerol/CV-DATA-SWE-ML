@@ -437,6 +437,45 @@ width="320" height="220">
 
 
 
+<br><br>
+
+
+
+
+<div align="center">
+
+# 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 
+
+# ∫ Data → Systems → Insights 
+
+</div>
+
+
+
+
+
+
+<br><br>
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.jpg" alt="Tech Stack" />
+
+
+
+<br>
+
+
+
+<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" alt="Languages" />
+
+
+
+
+
 
 
 

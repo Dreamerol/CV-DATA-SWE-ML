@@ -203,14 +203,12 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 ## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
-**Sofia University (FMI)** — Bachelor’s in Software Engineering  
-Oct 2024 – Present  
-
-**Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
-
 
 **[Sofia University "St. Kliment Ohridski" (FMI)](https://www.uni-sofia.bg)** — Bachelor’s in Software Engineering  
 Oct 2024 – Present
+
+**Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
+
 
 
 

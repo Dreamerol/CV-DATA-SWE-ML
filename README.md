@@ -13,8 +13,11 @@
 
 
 <h1 align="center">
-Software Engineer • Applied ML ∫ Data → Systems
+  <a href="https://github.com/Dreamerol" target="_blank">
+    Software Engineer • Applied ML ∫ Data → Systems
+  </a>
 </h1>
+
 
 </div>
 

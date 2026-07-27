@@ -1,6 +1,4 @@
 
-𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
-𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
 
 
 
@@ -8,24 +6,17 @@
 <div align="center">
 
 <h1>
-<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
-𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
+𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
+</h1>
+
+<h1>
+<a href="https://www.uni-sofia.bg" target="_blank">
+𝗙𝗠𝗜, 𝗦𝗼𝗳𝗶𝗮 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 “𝗦𝘁. 𝗞𝗹𝗶𝗺𝗲𝗻𝘁 𝗢𝗵𝗿𝗶𝗱𝘀𝗸𝗶”
 </a>
 </h1>
 
 
 </div>
-
-
-<h1 align="center">
-  <a href="https://github.com/Dreamerol" target="_blank">
-    Software Engineer • Applied ML ∫ Data → Systems
-  </a>
-</h1>
-
-
-</div>
-
 
 
 

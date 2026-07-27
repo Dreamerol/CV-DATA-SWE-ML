@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1>
-<a href="https://www.uni-sofia.bg" target="_blank">
+<a href="https://www.linkedin.com/in/mihaela-koseva-software-engineer" target="_blank">
 𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 @ 𝗙𝗠𝗜
 </a>
 </h1>

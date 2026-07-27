@@ -17,9 +17,9 @@
 </div>
 
 
-<h2 align="center">
+<h1 align="center">
   Data & Software Engineer • Applied ML ∫ Data → Systems ✨
-</h2>
+</h1>
 
 </div>
 

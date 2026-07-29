@@ -132,7 +132,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-
 <br>
 <br>
 
@@ -151,6 +150,7 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 </a>
 
 
+</div>
 
 
 

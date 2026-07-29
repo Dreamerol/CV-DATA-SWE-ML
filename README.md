@@ -240,7 +240,7 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -251,7 +251,11 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 
 
 
-<br>
+
+
+
+<br><br>
+
 
 
 
@@ -282,7 +286,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br><br>
+<br><br>
 
 
 
@@ -303,7 +307,7 @@ Mihaela Koseva (Михаела Косева) • AI Engineer • Software Engine
 
 
 
-<br><br><br>
+<br><br>
 
 
 

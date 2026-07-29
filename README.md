@@ -132,29 +132,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-<br>
-<br>
-<br>
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-
-<img
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
-width="100%"
-alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
-/>
-
-</a>
-
-
-</div>
-
-
 
 
 <br>

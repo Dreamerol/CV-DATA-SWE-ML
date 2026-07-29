@@ -133,12 +133,41 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
+<br>
+<br>
+
+
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+
+<img
+src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
+width="100%"
+alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
+/>
+
+</a>
+
+
 
 
 
 
 <br>
 <br>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -243,29 +272,6 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 <br><br>
 
 
-
-
-
-
-<div align="center">
-
-<a href="https://github.com/Dreamerol/CARDFOLIO">
-
-<img
-src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH%20STACK%20333.png"
-width="100%"
-alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
-/>
-
-</a>
-
-
-
-
-
-
-
-<br>
 
 
 

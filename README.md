@@ -239,12 +239,6 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 
 
 
----
-
-
-<br>
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -258,15 +252,6 @@ alt="Mihaela Koseva - Software Engineer, AI Engineer, Tech Stack"
 </a>
 
 
-
-
-
-
-
-<br>
-
-
----
 
 
 

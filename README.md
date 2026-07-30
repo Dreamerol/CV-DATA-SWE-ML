@@ -3,21 +3,6 @@
 
 
 
-<div align="center">
-
-<h1>
-𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔
-</h1>
-
-
-
-
-</div>
-
-
-
-
-
 
 <div align="center">
 

@@ -119,13 +119,6 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
-
-
-
-
-
-
-
 <h2 align="left">
   
   <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
@@ -240,7 +233,7 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 
 
 
-<br><br><br><br>
+<br><br><br>
 
 
  

@@ -359,52 +359,6 @@ width="320" height="220">
 
 
 
-<br><br><br>
-<br>
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-# 📊 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗔𝗡𝗔𝗟𝗬𝗧𝗜𝗖𝗦 
-
-# ∫ Data → Systems → Insights 
-
-</div>
-
-
-
-
-
-
-<br><br>
-
-
-
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECHSTACK.png" 
-     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
-
-     
-
-<br>
-
-
-
-<img src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/LANGUAGES777.jpg" 
-     alt="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL" />
-
-
-
-
 
 <br><br><br>
 

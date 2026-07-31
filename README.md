@@ -256,8 +256,6 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 
 
 
-
-
 <div align="center">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
@@ -266,7 +264,7 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
-© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design, custom graphics & content.
+© 2026 Mihaela Koseva (Михаела Косева) • Софийски университет • Original portfolio design.
 </p>
 
 <p style="font-size:10px; opacity:0.7;">
@@ -275,6 +273,11 @@ Mihaela Koseva (Михаела Косева) • Sofia University (Софийс�
 </p>
 
 </div>
+
+
+
+
+
 
 
 

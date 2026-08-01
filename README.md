@@ -97,7 +97,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 - Contributed to event-driven data processing pipelines supporting internal platform workflows and service integrations
 - Improved API reliability by reducing failure rates through modular service design, debugging, and system-level root-cause analysis
 - Strengthened system maintainability and delivery speed via structured code reviews, Git workflows, and collaborative engineering practices
-- Designed and supported reusable data integration patterns across backend services and internal APIs
+- Designed and supported data integration patterns across backend services and APIs
 
   <br>
 

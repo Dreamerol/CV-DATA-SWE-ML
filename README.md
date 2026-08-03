@@ -209,7 +209,7 @@ Bachelor’s Degree in Software Engineering | Oct 2024 – Present
 ## 🏆 𝗔𝗪𝗔𝗥𝗗𝗦 & 𝗛𝗢𝗡𝗢𝗥𝗦
 
 - 🌟 **Paysafe Academic Scholarship** — Award Recipient (2026)
-- 🥇 **FMI National Mathematics Competition** — Laureate
+- 🥇 **FMI National Mathematics Competition** — Laureate (2024)
 - 🏅 **National Mathematics & Physics Olympiads** — Group A Participant
 
 

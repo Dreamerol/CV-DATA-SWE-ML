@@ -139,6 +139,14 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 
 
+### 🧬 [𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY) (Python)
+
+- Implemented Hodgkin–Huxley and Izhikevich neuron models to simulate neural dynamics and firing patterns
+- Developed spike encoding, decoding, and signal reconstruction using one-layer Spiking Neural Networks
+- Evaluated neuron firing behaviors using numerical simulation and Mean Squared Error (MSE)
+
+
+
 ### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
 
 - Built an end-to-end ML pipeline for profit forecasting and trend analysis  

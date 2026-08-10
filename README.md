@@ -133,7 +133,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 ### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
 
-- Designed and evaluated neural networks with ~90%+ accuracy  
+- Designed and evaluated neural networks achieving 90%+ accuracy
 - Implemented backpropagation and gradient descent from scratch  
 - Applied ML to dynamic system modeling (SIR model, ODE simulations)
 

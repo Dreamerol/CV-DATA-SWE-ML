@@ -196,7 +196,7 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 ## 📚 𝗘𝗗𝗨𝗖𝗔𝗧𝗜𝗢𝗡
 
 **[Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"](https://www.uni-sofia.bg)**  
-Bachelor’s Degree in Software Engineering | Oct 2024 – Present
+Bachelor’s degree in Software Engineering | Oct 2024 – Present
 
 **Sofia Mathematical High School (SMG)** — 2019 – 2024 | GPA: 5.99 / 6.00  
 

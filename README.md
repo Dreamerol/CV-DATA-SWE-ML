@@ -68,10 +68,8 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 ## 💼 PROFESSIONAL EXPERIENCE
 
-### 🐙 JUNIOR SOFTWARE DEVELOPER (INTERN) — Core Algorithms & System Integration Team
+### 🐙 JUNIOR SOFTWARE DEVELOPER (INTERN) — Core Algorithms & System Integration Team | **ZIGIWAVE, SOFIA | SEP 2025 – FEB 2026**
 Foundational team, responsible for the platform’s algorithmic and functional core, focusing on high-performance data transfer, transformation, and synchronization between independent systems using Clojure for scalable backend solutions.
-
-**ZIGIWAVE, SOFIA | SEP 2025 – FEB 2026**
 
 * Developed backend services and data-processing workflows using **Java, Python, and Clojure**.
 * Built **REST API integrations** supporting communication, data synchronization, and interoperability between backend services.

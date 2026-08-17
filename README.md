@@ -66,46 +66,28 @@ Focused on distributed systems, data-driven engineering, and applied machine lea
 
 <br>
 
-## 💼 𝗣𝗥𝗢𝗙𝗘𝗦𝗦𝗜𝗢𝗡𝗔𝗟 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
+## 💼 PROFESSIONAL EXPERIENCE
 
-### 🐙 JUNIOR SOFTWARE DEVELOPER (INTERN) — Core Algorithms & System Integration Team
-𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘, 𝗦𝗢𝗙𝗜𝗔 | 𝗦𝗘𝗣 2025 – 𝗙𝗘𝗕 2026
+### 🐙 JUNIOR SOFTWARE DEVELOPER (INTERN) — Connectors Team
 
-- Developed services and data pipelines using **Python**, **Java**, and **Clojure**
-- Built REST API integrations supporting internal platform communication and data synchronization
-- Designed modular components following clean architecture principles
-- Contributed to systems handling **high-volume data processing workflows**
-- Participated in Agile development, code reviews, debugging, and Git-based collaboration
+**ZIGIWAVE, SOFIA | SEP 2025 – FEB 2026**
 
+* Developed backend services and data-processing workflows using **Java, Python, and Clojure**.
+* Built **REST API integrations** supporting communication, data synchronization, and interoperability between backend services.
+* Designed modular components following **clean architecture and maintainability principles**.
+* Contributed to **distributed and event-driven systems** handling high-volume data-processing workflows.
+* Supported production systems through debugging, **root-cause analysis**, and reliability improvements.
+* Collaborated in an **Agile engineering environment**, contributing to code reviews, Git-based workflows, testing, and team development.
 
+**Core Technologies:** Java • Clojure • Python • REST APIs • Distributed Systems • Data Processing • Event-Driven Architecture • System Integration
 
-### 📝 𝗦𝗘𝗟𝗘𝗖𝗧𝗘𝗗 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 & 𝗜𝗡𝗧𝗘𝗚𝗥𝗔𝗧𝗜𝗢𝗡 𝗪𝗢𝗥𝗞
-
-- Developed API-driven components for distributed system integration  
-- Designed data workflows improving system efficiency and throughput  
-- Worked on scalable integration patterns and event-driven architectures  
-- Supported production systems used in internal platform operations  
-- Featured System: 👉 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
-
-
-
-### 🔥 𝗘𝗡𝗚𝗜𝗡𝗘𝗘𝗥𝗜𝗡𝗚 𝗜𝗠𝗣𝗔𝗖𝗧 & 𝗭𝗜𝗚𝗜𝗪𝗔𝗩𝗘 𝗘𝗫𝗣𝗘𝗥𝗜𝗘𝗡𝗖𝗘
-
-- Built and maintained distributed backend services, focusing on scalable API-driven architecture using **Java** and **Clojure**
-- Contributed to event-driven data processing pipelines supporting internal platform workflows and service integrations
-- Improved API reliability by reducing failure rates through modular service design, debugging, and system-level root-cause analysis
-- Strengthened system maintainability and delivery speed via structured code reviews, Git workflows, and collaborative engineering practices
-- Designed and supported data integration patterns across backend services and APIs
-- **Focus Areas:** Backend Systems • REST APIs • Data Engineering • Distributed Systems • Event-Driven Architecture • System Integrations
+**Selected Project:** [Java • Clojure • Backend Systems & APIs](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
 
 
 
 
 
 <br>
-
-
-
 
 
 

@@ -105,7 +105,7 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 
 **Technologies:** Java • Clojure • Python • REST APIs • Distributed Systems • Data Processing • System Integration
 
-**Selected Project:** [Java • Clojure • Backend Systems & APIs](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM/blob/main/README.md)
+
 
 
 

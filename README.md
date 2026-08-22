@@ -1,4 +1,18 @@
+# Mihaela Koseva (Михаела Косева) • Software Engineer & AI Engineer
 
+Mihaela Koseva (Михаела Косева) is a Software Engineer and AI Engineer at Sofia University (Софийски университет), based in Sofia, Bulgaria, specializing in Applied Machine Learning, Data Science, Backend Engineering, Data Systems & APIs, and Python.
+
+<div align="center">
+
+<a href="https://github.com/Dreamerol/CARDFOLIO">
+  <img 
+    src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-CV.jpg"
+    width="100%"
+    alt="Mihaela Koseva (Михаела Косева) — Software Engineer & AI Engineer, Sofia University, Sofia, Bulgaria"
+  />
+</a>
+
+</div>
 
 
 

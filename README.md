@@ -7,18 +7,6 @@
 
 
 
-
-<div align="center">
-  
-# 𝗠𝗶𝗵𝗮𝗲𝗹𝗮 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜/𝗠𝗟
-
-</div>
-
-
-
-
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -58,6 +46,25 @@
 
 
 ---
+
+
+
+<br>
+
+
+
+
+
+
+<div align="center">
+  
+# 𝗠𝗶𝗵𝗮𝗲𝗹𝗮 𝗞𝗢𝗦𝗘𝗩𝗔 • 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 ∫ 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜/𝗠𝗟
+
+</div>
+
+
+
+
 
 
 

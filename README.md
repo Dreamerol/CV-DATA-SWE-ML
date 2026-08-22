@@ -43,6 +43,8 @@
 ---
 
 
+<br>
+
 
 
 <div align="center">
@@ -53,6 +55,7 @@
 𝗠𝗶𝗵𝗮𝗲𝗹𝗮 𝗞𝗢𝗦𝗘𝗩𝗔 (Михаела КОСЕВА) is a Software Engineer and AI Engineer at Sofia University (Софийски университет), specializing in Applied Machine Learning, Data Science, Backend Engineering, Data Systems & APIs.
 
 </div>
+
 
 
 <br>

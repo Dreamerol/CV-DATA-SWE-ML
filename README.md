@@ -43,10 +43,10 @@
 ---
 
 
-𝗠𝗶𝗵𝗮𝗲𝗹𝗮 𝗞𝗼𝘀𝗲𝘃𝗮 - 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜/𝗠𝗟 ∫ 𝗗𝗮𝘁𝗮 → 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
 
 
-# Mihaela Koseva (Михаела Косева) • Software Engineer & AI Engineer
+
+# Mihaela Koseva (Михаела Косева) • 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿 | 𝗗𝗮𝘁𝗮 & 𝗔𝗽𝗽𝗹𝗶𝗲𝗱 𝗔𝗜/𝗠𝗟 ∫ 𝗗𝗮𝘁𝗮 → 𝗦𝘆𝘀𝘁𝗲𝗺𝘀
 
 Mihaela Koseva (Михаела Косева) is a Software Engineer and AI Engineer at Sofia University (Софийски университет), based in Sofia, Bulgaria, specializing in Applied Machine Learning, Data Science, Backend Engineering, Python, Data Systems & APIs.
 

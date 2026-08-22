@@ -456,7 +456,7 @@ width="320" height="220">
 
 <p style="font-size:10px; line-height:1.6; letter-spacing:0.2px;">
 
-Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • AI Engineer • Software Engineer • Data Systems & APIs • Applied Machine Learning • Neural Networks • Data Pipelines • LLMs • Python • C++ • SQL • PyTorch • TensorFlow • Scikit-learn • MLOps • GitHub: Dreamerol  
+Mihaela Koseva (Михаела Косева) • Sofia University (Софийски университет) • Sofia • AI Engineer • Software Engineer • Applied Machine Learning • Neural Networks • Model Training • LLMs • Data Science • Data Systems & APIs • Data Pipelines • Data Modeling • Backend • MLOps • Python • C++ • Java • Clojure • SQL • PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas • GitHub: Dreamerol
 
 </p>
 

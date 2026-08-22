@@ -70,7 +70,7 @@
 
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
-𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 (МИХАЕЛА КОСЕВА) is a Software Engineer at FMI, Sofia University “St. Kliment Ohridski” (Софийски университет), with strong foundations in algorithms, mathematics, and analytical problem-solving from SMG: Sofia Mathematical High School (Софийска математическа гимназия: СМГ).
+𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 (МИХАЕЛА КОСЕВА) is a Software Engineer at FMI, Sofia University “St. Kliment Ohridski” (Софийски университет), with strong foundations in algorithms, mathematics, and analytical problem-solving from SMG, Sofia Mathematical High School (Софийска математическа гимназия, СМГ).
 
 Built scalable backend systems, data pipelines, and REST APIs using Java, Clojure, and Python during a Junior Software Engineer internship at ZigiWave, contributing to distributed systems, data integration, and high-volume data processing workflows.
 

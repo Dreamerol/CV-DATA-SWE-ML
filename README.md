@@ -206,7 +206,7 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 **[Faculty of Mathematics and Informatics (FMI), Sofia University "St. Kliment Ohridski"](https://www.uni-sofia.bg)**  
 Bachelor’s degree in Software Engineering | Oct 2024 – Present
 
-**Sofia Mathematical High School - SMG (СМГ)** — 2019 – 2024 | GPA: 5.99 / 6.00  
+**Sofia Mathematical High School: SMG (СМГ)** | 2019 – 2024 | GPA: 5.99 / 6.00  
 
 
 <br>

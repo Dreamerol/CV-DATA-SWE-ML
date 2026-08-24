@@ -132,8 +132,8 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 
 <h2 align="left">
   
-  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
-    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+🟢  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
+     𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
   </a>
 </h2>
 

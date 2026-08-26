@@ -7,6 +7,15 @@
 
 
 
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -67,6 +76,10 @@
 
 
 
+
+<div align="left">
+
+
 ## 📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬
 
 **𝗠𝗜𝗛𝗔𝗘𝗟𝗔 𝗞𝗢𝗦𝗘𝗩𝗔 (МИХАЕЛА КОСЕВА) is a Software Engineering student at FMI, Sofia University (Софийски университет), with strong foundations in algorithms, mathematics, and analytical problem-solving from SMG, Sofia Mathematical High School** (Софийска математическа гимназия, СМГ).
@@ -120,6 +133,8 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 
 
 
+</div>
+
 
 
 
@@ -132,10 +147,14 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 
 <h2 align="left">
   
-🟢  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
-     𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
+  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
+    🟢 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
   </a>
 </h2>
+
+
+
+</div>
 
 
 
@@ -270,7 +289,7 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 <div align="center">
 
-# 🟢 <a href="https://github.com/Dreamerol">𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
+# <a href="https://github.com/Dreamerol">🟢 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 ∫ 𝗗𝗔𝗧𝗔 • 𝗔𝗣𝗣𝗟𝗜𝗘𝗗 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚</a>
 
 # 𝟯𝟬+ 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 • 𝗔𝗜 • 𝗗𝗮𝘁𝗮 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
@@ -400,10 +419,10 @@ width="320" height="220">
 <div align="center">
 
 <h1>
-⚛️ <a
+<a
   href="https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY"
   title="Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, Sofia, Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineering, AI Engineer, Applied Machine Learning, Data Science, Software Engineer, Backend Engineer, REST APIs, Python, C++, Java, SQL, Mihaela Koseva (Михаела Косева), Sofia University (Софийски университет), Software Engineer, Sofia">
-  𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
+  ⚛️ 𝗔𝗜 • 𝗗𝗔𝗧𝗔 • 𝗜𝗡𝗧𝗘𝗟𝗟𝗜𝗚𝗘𝗡𝗧 𝗦𝗬𝗦𝗧𝗘𝗠𝗦
   
 </a>
 </h1>
@@ -599,10 +618,6 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <br><br><br><br><br>
-
-
-
-
 
 
 

@@ -14,8 +14,6 @@
 
 
 
-
-
 <div align="center">
 
 <a href="https://github.com/Dreamerol/CARDFOLIO">
@@ -133,86 +131,61 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 
 
 
-</div>
-
-
-
-
 
 <br>
 
 
 
+## 🟢 [𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦](https://github.com/Dreamerol/PORTFOLIO)
 
-
-<h2 align="left">
-  
- 🟢  <a href="https://github.com/Dreamerol/PORTFOLIO" target="_blank" style="text-decoration:none; color:inherit;">
-     𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗗 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
-  </a>
-</h2>
-
-
-
-</div>
-
-
-
-### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) (Python, TensorFlow)
+### 🧠 [𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/NEURAL-NETWORKS) · Python, TensorFlow
 
 - Designed and evaluated neural networks achieving 90%+ accuracy
-- Implemented backpropagation and gradient descent from scratch  
+- Implemented backpropagation and gradient descent from scratch
 - Applied ML to dynamic system modeling (SIR model, ODE simulations)
 
 
-
-### 🧬 [𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY) (Python)
+### 🧬 [𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗦](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY) · Python
 
 - Implemented Hodgkin–Huxley and Izhikevich neuron models to simulate neural dynamics and firing patterns
 - Developed spike encoding, decoding, and signal reconstruction using one-layer Spiking Neural Networks
 - Evaluated neuron firing behaviors using numerical simulation and Mean Squared Error (MSE)
 
 
+### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) · Python, Scikit-learn, Pandas, NumPy
 
-### 💰 [𝗣𝗥𝗢𝗙𝗜𝗧 𝗣𝗥𝗘𝗗𝗜𝗖𝗧𝗢𝗥 𝗠𝗟](https://github.com/Dreamerol/PROFIT-PREDICTOR-ML) (Python, Scikit-learn, Pandas, NumPy)
-
-- Built an end-to-end ML pipeline for profit forecasting and trend analysis  
-- Conducted EDA, feature engineering, and preprocessing  
+- Built an end-to-end ML pipeline for profit forecasting and trend analysis
+- Conducted EDA, feature engineering, and preprocessing
 - Implemented regression, decision trees, and time series models
 
 
+### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) · Python, Pandas, Matplotlib, NumPy
 
-### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) (Python, Pandas, Matplotlib, NumPy)
-
-- Performed exploratory and statistical analysis on 5,000+ clinical records  
-- Conducted hypothesis testing (p < 0.05) and correlation analysis  
+- Performed exploratory and statistical analysis on 5,000+ clinical records
+- Conducted hypothesis testing (p < 0.05) and correlation analysis
 - Built preprocessing pipelines and visualization workflows
 
 
+### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) · SQL
 
-### 📦 [𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗦𝗤𝗟 𝗦𝗬𝗦𝗧𝗘𝗠](https://github.com/Dreamerol/DELIVERY-DATA-SQL-SYSTEM) (SQL)
-
-- Designed normalized relational database schema  
-- Optimized SQL queries, improving performance by ~30%  
+- Designed normalized relational database schema
+- Optimized SQL queries, improving performance by ~30%
 - Supported KPI tracking and reporting workflows
 
 
+### 🟢 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM)
 
-### 🟢 [𝗝𝗔𝗩𝗔 • 𝗖𝗟𝗢𝗝𝗨𝗥𝗘 • 𝗕𝗔𝗖𝗞𝗘𝗡𝗗 𝗦𝗬𝗦𝗧𝗘𝗠𝗦 & 𝗔𝗣𝗜𝘀](https://github.com/Dreamerol/JAVA-CLOJURE-API-SYSTEM) 
-
-- Designed backend integration system using API-driven architecture  
-- Implemented modular service communication layer for distributed systems  
-- Focused on scalable backend design and maintainable system structure  
-- Worked with event-driven and data synchronization workflows  
+- Designed backend integration system using API-driven architecture
+- Implemented modular service communication layer for distributed systems
+- Focused on scalable backend design and maintainable system structure
+- Worked with event-driven and data synchronization workflows
 
 
-### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/PORTFOLIO) (HTML, CSS, JavaScript)
+### 🌐 [𝗦𝗢𝗙𝗧𝗪𝗔𝗥𝗘 𝗣𝗢𝗥𝗧𝗙𝗢𝗟𝗜𝗢](https://github.com/Dreamerol/PORTFOLIO) · HTML, CSS, JavaScript
 
-- Built a responsive portfolio showcasing projects and technical work  
-- Designed modular UI components with interactive navigation  
+- Built a responsive portfolio showcasing projects and technical work
+- Designed modular UI components with interactive navigation
 - Centralized projects, skills, and professional profiles
-
-
 
 
 
@@ -246,6 +219,7 @@ Bachelor’s degree in Software Engineering | Oct 2024 – Present
 - 🌟 **Paysafe Academic Scholarship** — Award Recipient (2026)
 - 🥇 **FMI National Mathematics Competition** — Laureate (2024)
 - 🏅 **National Mathematics & Physics Olympiads** — Group A Participant
+
 
 
 
@@ -616,6 +590,20 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 <br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

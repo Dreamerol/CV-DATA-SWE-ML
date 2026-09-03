@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
+<a href="https://dreamerol.github.io/MIHAELA-KOSEVA-AI/">
   <img 
     src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/MIHAELA%20KOSEVA-CV.jpg"
     width="100%"

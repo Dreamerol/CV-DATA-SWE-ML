@@ -31,6 +31,7 @@
 
 
 
+
 <br>
 
 
@@ -71,6 +72,12 @@
 <span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/ALLSTATS">𝗦𝗧𝗔𝗧𝗦</a></span>
 </td>
 
+<td align="center"><span style="font-size:1.3em;">│</span></td>
+
+<td align="center" width="12%">
+<span style="font-size:1.55em;">✅</span><br>
+<span style="font-size:1.4em;"><a href="https://github.com/Dreamerol/RESUME">𝗥𝗘𝗦𝗨𝗠𝗘</a></span>
+</td>
 
 <td align="center"><span style="font-size:1.3em;">│</span></td>
 
@@ -97,6 +104,13 @@
 </table>
 
 </div>
+
+
+
+
+
+
+
 
 
 

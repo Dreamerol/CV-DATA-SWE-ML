@@ -220,7 +220,7 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 - Applied ML to dynamic system modeling (SIR model, ODE simulations)
 
 
-### 🧬 [𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗦](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY) · Python
+### 🟣 [𝗦𝗣𝗜𝗞𝗜𝗡𝗚 𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗦](https://github.com/Dreamerol/SNN-NEURAL-ACTIVITY) · Python
 
 - Implemented Hodgkin–Huxley and Izhikevich neuron models to simulate neural dynamics and firing patterns
 - Developed spike encoding, decoding, and signal reconstruction using one-layer Spiking Neural Networks

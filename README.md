@@ -232,7 +232,7 @@ Engineering team responsible for the platform’s algorithmic and functional cor
 - Implemented regression, decision trees, and time series models
 
 
-### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟 𝗗𝗔𝗧𝗔 𝗔𝗡𝗔𝗟𝗬𝗦𝗜𝗦](https://github.com/Dreamerol/PLACEBO-EFFECT-ML-DATA-ANALYSIS) · Python, Pandas, Matplotlib, NumPy
+### 💊 [𝗣𝗟𝗔𝗖𝗘𝗕𝗢 𝗘𝗙𝗙𝗘𝗖𝗧 𝗠𝗟](https://github.com/Dreamerol/PLACEBO-EFFECT-ML) · Python, Pandas, Matplotlib, NumPy
 
 - Performed exploratory and statistical analysis on 5,000+ clinical records
 - Conducted hypothesis testing (p < 0.05) and correlation analysis

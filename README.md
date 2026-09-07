@@ -307,7 +307,7 @@ Bachelor’s degree in Software Engineering | Oct 2024 – Present
 
 <div align="center">
 
-<a href="https://github.com/Dreamerol/CARDFOLIO">
+<a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
 
 <img
 src="https://raw.githubusercontent.com/Dreamerol/Dreamerol/main/TECH-STACK-mihaela-koseva.png"
